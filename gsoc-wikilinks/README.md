@@ -40,11 +40,11 @@ This library must be included in your projects as a dependency. Here there are s
 
 The dependency information is as follow: 
 
-`<dependency>  
-    <groupId>com.gsoc.freebase</groupId>  
-    <artifactId>gsoc-wikilinks</artifactId>  
-    <version>1.0-SNAPSHOT</version>  
-</dependency>`
+    <dependency>  
+        <groupId>com.gsoc.freebase</groupId>  
+        <artifactId>gsoc-wikilinks</artifactId>  
+        <version>1.0-SNAPSHOT</version>  
+    </dependency>
 
 ### Use the service ###
 
