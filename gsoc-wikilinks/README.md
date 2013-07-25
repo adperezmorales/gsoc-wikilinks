@@ -36,7 +36,7 @@ It will create a Jena TDB database in the output directory which will can be que
 This library must be included in your projects as a dependency. Here there are several options: 
 
 * Compile the library and use the jar as dependency  
-* Download the code and execute `mvn install` command to install the library in your local repository. Then add the maven dependency to yout project.  
+* Download the code and execute `mvn install` command to install the library in your local repository. Then add the maven dependency to your project.  
 
 The dependency information is as follow: 
 
